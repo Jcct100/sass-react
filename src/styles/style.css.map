@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "AAYA,OAAO,CAAP,sEAAO;AACP,OAAO,CAAP,kEAAO;AEbP,AAAA,IAAI,CAAC;EACH,gBAAgB,EDKP,OAAO;ECJhB,MAAM,EAAE,KAAK;EACb,YAAY,EDFA,YAAY;CCGzB",
+    "sources": [
+        "style.scss",
+        "_variables.scss",
+        "_defaults.scss",
+        "components/_home.scss",
+        "components/_aboutus.scss",
+        "components/_subscribe.scss",
+        "components/_followme.scss",
+        "components/_contactme.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
